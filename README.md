@@ -4,17 +4,17 @@
 
 > Simple project to try out Spotify API (and custom python gui lib)
 > Using GUI any term can be searched as KPOP song, KPOP album or KPOP artist and up to 9 results are showed
+> If you want to use gui you need to make .env file with your appropriate tokens 
 
 ## Author
 
-👤 **Jelena **
+👤 **Jelena**
 
-* Website: www.linkedin.com/in/jelenafirulovic
 * Github: [@algebrabender](https://github.com/algebrabender)
 
-## Show your support
+### Give a suggestion
 
-Give a ⭐️ if this project helped you!
+If you came across this project and have tip/suggestion/advice feel free to fork or make a pull request!
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
